@@ -1,9 +1,9 @@
 '''
 Simple Port Scanner
-Adapted from:
+Original code from from:
 https://www.youtube.com/watch?v=d3D8PAZV51g
-***Added port range functionality
-***Added user interface
+***Added port range specification
+***Improved user interface
 ***Cleaned up code
 
 '''
